@@ -1,4 +1,4 @@
-# Stock Researcher Tool
+# Stock Researcher
 
 A multi-source stock analysis platform that aggregates company data, financials, growth metrics, and news, with AI-assisted summarization. Designed for beginner to intermediate investors.
 
